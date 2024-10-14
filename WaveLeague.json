@@ -1,6 +1,6 @@
 {
 	"Name": "Wave League",
-	"Version": 1728801521,
+	"Version": 1728933305,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Survivors may not use Firecrackers in their builds. They are still included in the balancing, with the hopes of them making a return in an update soon. If BHVR decides to not bring them back into custom lobbies, they will be permanently removed from the balancing.",
 	"Tiers": [
@@ -13,6 +13,7 @@
 				"7",
 				"258",
 				"11",
+				"13",
 				"16",
 				"17",
 				"18",
@@ -40,6 +41,7 @@
 				"73",
 				"74",
 				"80",
+				"82",
 				"83",
 				"84",
 				"86",
@@ -462,6 +464,8 @@
 			"KillerNotes": "Survivor Offerings:\nAnnotated Blueprint, \nBloodied Blueprint, \nVigo's Shroud, \nVigo's Shroud\n\n\nMaps:\nCoal Tower I |\nRancid Abattoir |\nSanctum of Wrath II\n",
 			"IsDisabled": false,
 			"Map": [
+				"0",
+				"11",
 				"30"
 			],
 			"BalanceTiers": [
@@ -474,11 +478,11 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [
+			"SurvivorIndvPerkBans": [
 				"96"
 			],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -495,7 +499,6 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				14,
 				9
 			],
 			"AddonWhitelist": {
@@ -517,11 +520,7 @@
 					]
 				},
 				"Toolbox": {
-					"Addons": [
-						0,
-						1,
-						2
-					]
+					"Addons": []
 				},
 				"Key": {
 					"Addons": []
