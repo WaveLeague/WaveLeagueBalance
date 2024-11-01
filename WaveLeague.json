@@ -1,6 +1,6 @@
 {
 	"Name": "Wave League",
-	"Version": 1728933305,
+	"Version": 1730489413,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Survivors may not use Firecrackers in their builds. They are still included in the balancing, with the hopes of them making a return in an update soon. If BHVR decides to not bring them back into custom lobbies, they will be permanently removed from the balancing.",
 	"Tiers": [
@@ -29,6 +29,7 @@
 				"267",
 				"46",
 				"261",
+				"47",
 				"49",
 				"55",
 				"56",
@@ -158,9 +159,11 @@
 				"38",
 				"44",
 				"57",
+				"61",
 				"76",
 				"77",
 				"102",
+				"109",
 				"121",
 				"127"
 			],
@@ -187,6 +190,7 @@
 				"76",
 				"77",
 				"102",
+				"109",
 				"121",
 				"127",
 				"128"
@@ -215,6 +219,7 @@
 				"77",
 				"92",
 				"102",
+				"109",
 				"112",
 				"121",
 				"127",
