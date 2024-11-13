@@ -1,6 +1,6 @@
 {
 	"Name": "Wave League",
-	"Version": 1730489413,
+	"Version": 1731488856,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Survivors may not use Firecrackers in their builds. They are still included in the balancing, with the hopes of them making a return in an update soon. If BHVR decides to not bring them back into custom lobbies, they will be permanently removed from the balancing.",
 	"Tiers": [
@@ -390,7 +390,7 @@
 		},
 		{
 			"Name": "The Hillbilly",
-			"KillerNotes": "Survivor Offerings:\nAnnotated Blueprint, \nBloodied Blueprint, \nVigo's Shroud, \nVigo's Shroud",
+			"KillerNotes": "2 X Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"5",
@@ -466,7 +466,7 @@
 		},
 		{
 			"Name": "The Nurse",
-			"KillerNotes": "Survivor Offerings:\nAnnotated Blueprint, \nBloodied Blueprint, \nVigo's Shroud, \nVigo's Shroud\n\n\nMaps:\nCoal Tower I |\nRancid Abattoir |\nSanctum of Wrath II\n",
+			"KillerNotes": "2 x Vigo's Shroud  |  Sanctum of Wrath II\n",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -483,9 +483,7 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"96"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1120,7 +1118,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "Survivor Offerings:\nAnnotated Blueprint, \nBloodied Blueprint, \nVigo's Shroud, \nVigo's Shroud",
+			"KillerNotes": "2 X Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"42",
@@ -1393,6 +1391,7 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				5,
 				6
 			],
@@ -1682,7 +1681,7 @@
 		},
 		{
 			"Name": "The Blight",
-			"KillerNotes": "Survivor Offerings:\nAnnotated Blueprint, \nBloodied Blueprint, \nVigo's Shroud, \nVigo's Shroud",
+			"KillerNotes": "2 X Vigo's Shroud",
 			"IsDisabled": false,
 			"Map": [
 				"4",
@@ -2063,7 +2062,7 @@
 		},
 		{
 			"Name": "The Artist",
-			"KillerNotes": "Maps: \nAzarov's Resting Place |\nFamily Residence II |\nWreckers' Yard\n",
+			"KillerNotes": "Family Residence II\n\n",
 			"IsDisabled": false,
 			"Map": [
 				"5",
@@ -2289,6 +2288,7 @@
 				}
 			},
 			"SurvivorOfferings": [
+				0,
 				5,
 				6
 			],
@@ -2583,7 +2583,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"42",
-				"8",
+				"9",
 				"13"
 			],
 			"BalanceTiers": [
