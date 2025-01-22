@@ -1,6 +1,6 @@
 {
 	"Name": "Wave League",
-	"Version": 1737286252,
+	"Version": 1737507742,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Survivors may not use Firecrackers in their builds. They are still included in the balancing, with the hopes of them making a return in an update soon. If BHVR decides to not bring them back into custom lobbies, they will be permanently removed from the balancing.",
 	"Tiers": [
@@ -347,7 +347,6 @@
 				37
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -420,7 +419,6 @@
 				54
 			],
 			"ItemWhitelist": [
-				0,
 				5,
 				9
 			],
@@ -497,7 +495,6 @@
 				79
 			],
 			"ItemWhitelist": [
-				0,
 				5,
 				9
 			],
@@ -569,7 +566,6 @@
 				95
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -738,7 +734,6 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -812,7 +807,6 @@
 				158
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1030,7 +1024,6 @@
 				238
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1117,7 +1110,6 @@
 				258
 			],
 			"ItemWhitelist": [
-				0,
 				5,
 				9
 			],
@@ -1243,7 +1235,6 @@
 				298
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1448,7 +1439,6 @@
 				358
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1661,7 +1651,6 @@
 				418
 			],
 			"ItemWhitelist": [
-				0,
 				5,
 				9
 			],
@@ -2038,7 +2027,6 @@
 				518
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2206,7 +2194,6 @@
 				557
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2276,7 +2263,6 @@
 				578
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2486,7 +2472,6 @@
 				637
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2561,7 +2546,6 @@
 				657
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2634,7 +2618,6 @@
 				671
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2707,7 +2690,6 @@
 				698
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2829,7 +2811,6 @@
 				738
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2870,7 +2851,7 @@
 		{
 			"Name": "The Houndmaster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
