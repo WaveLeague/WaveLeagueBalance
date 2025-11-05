@@ -1,6 +1,6 @@
 {
 	"Name": "Wave League",
-	"Version": 1762157580,
+	"Version": 1762306242,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1471,7 +1471,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"280"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
